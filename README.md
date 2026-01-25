@@ -5,4 +5,4 @@ Basic features such as: Buttons, Entries and etc.
 
 Technologies:
 1. Python
-2. Tkinter
+2. Tkintert
